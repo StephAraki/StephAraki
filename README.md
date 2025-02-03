@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Stephanie Araki! 👋
 
-<!--
-**StephAraki/StephAraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**StephAraki/StephAraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+🎓 About Me
+- MS candidate in the Health Informatics and Data Science (HIDS) program at Georgetown University.
+  - Exepcted graduation: Summer 2026
+- MRI Research Technician at the Center for Functional and Molecular Imaging (CFMI) at Georgetown University Medical Center.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools
+- Programming & Analysis: Python, SQL, R, JavaScript/HTML, C++
+- Data Visualization: Tableau, Matplotlib, ggplot2
+- Machine Learning: Scikit-learn, XGBoost
+
+<!-- 💬 Current Interests
+- 
+
+--> 
+📫 Connect with me!
+- LinkedIn: www.linkedin.com/in/stephanie-araki/
+- Email: sa2070@georgetown.edu
